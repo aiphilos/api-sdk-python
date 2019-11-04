@@ -1,5 +1,6 @@
 # Custom
-.idea
+.idea/*
+!.idea/dictionaries/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
