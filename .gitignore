@@ -1,4 +1,6 @@
 # Custom
+test_creds*
+
 .idea/*
 !.idea/dictionaries/
 
